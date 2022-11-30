@@ -1,0 +1,11 @@
+D:\hmmmmmm\Do_An_CK-20220427T073028Z-001\ServerQ\bin\Debug\ServerQ.exe.config
+D:\hmmmmmm\Do_An_CK-20220427T073028Z-001\ServerQ\bin\Debug\ServerQ.exe
+D:\hmmmmmm\Do_An_CK-20220427T073028Z-001\ServerQ\bin\Debug\ServerQ.pdb
+D:\hmmmmmm\Do_An_CK-20220427T073028Z-001\ServerQ\obj\Debug\ServerQ.Properties.Resources.resources
+D:\hmmmmmm\Do_An_CK-20220427T073028Z-001\ServerQ\obj\Debug\ServerQ.csproj.GenerateResource.cache
+D:\hmmmmmm\Do_An_CK-20220427T073028Z-001\ServerQ\obj\Debug\ServerQ.csproj.CoreCompileInputs.cache
+D:\hmmmmmm\Do_An_CK-20220427T073028Z-001\ServerQ\obj\Debug\ServerQ.exe
+D:\hmmmmmm\Do_An_CK-20220427T073028Z-001\ServerQ\obj\Debug\ServerQ.pdb
+D:\hmmmmmm\Do_An_CK-20220427T073028Z-001\ServerQ\obj\Debug\ServerQ.ServerQ.resources
+D:\hmmmmmm\Do_An_CK-20220427T073028Z-001\ServerQ\obj\Debug\ServerQ.csproj.AssemblyReference.cache
+D:\hmmmmmm\Do_An_CK-20220427T073028Z-001\ServerQ\obj\Debug\ServerQ.csproj.SuggestedBindingRedirects.cache
